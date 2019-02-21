@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49c78d3f-6dc2-4ba9-ac9f-c1aaed74b035" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sudoku/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sudoku/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sudoku/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sudoku/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Sudoku/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.XML.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/AOT/Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.XML.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.XML" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.XML.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Assemblies/Windows/Newtonsoft.Json.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Documentation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Documentation/Json Net for Unity 2.0.1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/Documentation/Json Net for Unity 2.0.1.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/JsonDotNet201Source.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/JsonDotNet201Source.zip.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/link.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/JsonDotNet/link.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Parsejson.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Parsejson.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PuzzleData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/PuzzleData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sudoku.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/Sudoku.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Solver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Solver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="735557110">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="2717" />
+          <entry key="txt" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="2717" />
+          <entry key="PLAIN_TEXT" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PuzzleData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <marker date="1550245312871" expanded="true" signature="6:130" ph="..." />
+                <marker date="1550245312871" expanded="true" signature="177:428" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Parsejson.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="70" column="100" lean-forward="true" selection-start-line="70" selection-start-column="100" selection-end-line="70" selection-end-column="100" />
+              <folding>
+                <marker date="1550326670924" expanded="true" signature="6:173" ph="..." />
+                <marker date="1550326670924" expanded="true" signature="214:5583" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="340:397" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="439:819" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="860:986" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="1012:1506" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="1252:1341" ph="/* Debug.Log(puzzleData); ... */" />
+                <marker date="1550326670924" expanded="true" signature="1397:1503" ph="/* foreach (var ret in puzzleData.Grid_1) ... */" />
+                <marker date="1550326670924" expanded="true" signature="1546:2191" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="1682:2188" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="1717:2184" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="1749:2173" ph="{...}" />
+                <marker date="1550326670924" expanded="true" signature="2194:5581" ph="/* public bool Solve(int[][] puzzle,int row, int col=0) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Solver.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="436">
+              <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+              <folding>
+                <marker date="1550321049724" expanded="true" signature="6:173" ph="..." />
+                <marker date="1550321049724" expanded="true" signature="205:3946" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="279:435" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="492:1917" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="627:1826" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="699:1818" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="752:844" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="857:1809" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="1059:1306" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="1220:1295" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="1320:1797" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="1522:1786" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="1687:1767" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="1986:2387" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="2069:2259" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="2206:2255" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="2457:2745" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="2674:2728" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="2853:3293" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="3093:3226" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="3135:3222" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="3402:3940" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="3693:3920" ph="{...}" />
+                <marker date="1550321049724" expanded="true" signature="3766:3916" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="innabeltek" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Solver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Parsejson.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PuzzleData.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/PuzzleData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Solver.cs" />
+        <option value="$PROJECT_DIR$/Assets/Parsejson.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="85" />
+    <option name="width" value="1235" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="JsonDotNet" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49c78d3f-6dc2-4ba9-ac9f-c1aaed74b035" name="Default Changelist" comment="" />
+      <created>1550230107003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550230107003</updated>
+      <workItem from="1550230108732" duration="29812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29812000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22567567" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first grid solver" />
+    <option name="LAST_COMMIT_MESSAGE" value="first grid solver" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Solver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+          <folding>
+            <marker date="1550321049724" expanded="true" signature="6:173" ph="..." />
+            <marker date="1550321049724" expanded="true" signature="205:3946" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="279:435" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="492:1917" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="627:1826" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="699:1818" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="752:844" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="857:1809" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="1059:1306" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="1220:1295" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="1320:1797" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="1522:1786" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="1687:1767" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="1986:2387" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="2069:2259" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="2206:2255" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="2457:2745" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="2674:2728" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="2853:3293" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="3093:3226" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="3135:3222" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="3402:3940" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="3693:3920" ph="{...}" />
+            <marker date="1550321049724" expanded="true" signature="3766:3916" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PuzzleData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <marker date="1550245312871" expanded="true" signature="6:130" ph="..." />
+            <marker date="1550245312871" expanded="true" signature="177:428" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Parsejson.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="70" column="100" lean-forward="true" selection-start-line="70" selection-start-column="100" selection-end-line="70" selection-end-column="100" />
+          <folding>
+            <marker date="1550326670924" expanded="true" signature="6:173" ph="..." />
+            <marker date="1550326670924" expanded="true" signature="214:5583" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="340:397" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="439:819" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="860:986" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="1012:1506" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="1252:1341" ph="/* Debug.Log(puzzleData); ... */" />
+            <marker date="1550326670924" expanded="true" signature="1397:1503" ph="/* foreach (var ret in puzzleData.Grid_1) ... */" />
+            <marker date="1550326670924" expanded="true" signature="1546:2191" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="1682:2188" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="1717:2184" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="1749:2173" ph="{...}" />
+            <marker date="1550326670924" expanded="true" signature="2194:5581" ph="/* public bool Solve(int[][] puzzle,int row, int col=0) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
